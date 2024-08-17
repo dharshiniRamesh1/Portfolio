@@ -1,0 +1,62 @@
+This is Dharshini R from Computer Science and Engineering 
+
+CAREER OBJECTIVES 
+ 
+   
+ To secure an entry-level position in a reputed organization that offers a challenging and dynamic work environment, opportunities for growth and learning, and the ability to 
+apply my skills and knowledge to contribute to the company's success. 
+ 
+INTERNSHIP   
+Web Designing Intern, Training Trains Pvt Ltd, July 2023 
+ July 2023  TN 
+Gained hands-on experience in designing and developing websites using HTML, CSS, and JavaScript . Developed skills in problem-solving, communication, and time management. 
+ 
+PROJECT 
+PERSONAL PORTFOLIO WEBSITE 
+Designed and developed a fully responsive and interactive website to showcase my skills and abilities as a designer and developer  
+Languages : HTML ,CSS, JAVASCRIPT. 
+ 
+ E-HEALTHCARE WEBSITE 
+Developed a comprehensive eHealthcare Management System aimed at improving the efficiency of hospital operations and enhancing patient care. The system facilitates seamless 
+interactions between patients and healthcare providers 
+ 
+  Languages : JAVA SERVLET, JSP, HTML, CSS.
+
+ EDUCATION 
+B.E.CSE -8.16 CGPA 
+V.S.B Engineering College 
+ September 2021 - June 2025
+ Karur, TN 
+ 
+  
+  SKILLS 
+ 
+ 
+o Front-End :  HTML, CSS, 
+JSP, JAVASCRIPT 
+o Back-End : Java, Servlet,  
+JDBC,                                         
+Hibernate,  Springboot 
+o DataBase  : MySQL  
+ 
+CERTIFICATIONS 
+    
+o Introduction to Git and GitHub  
+      Courser 2024 
+o Cloud Essentials Knowledge  
+      AWS  2023 
+ 
+ AREA OF INTERST 
+ 
+o Database Management 
+System 
+ 
+   HOBBIES 
+ 
+o Watching Movies 
+o Travelling 
+ 
+ 
+ 
+ 
+             DHARSHINI R
